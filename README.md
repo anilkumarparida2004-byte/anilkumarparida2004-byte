@@ -3,7 +3,7 @@
 ### 💻 Computer Science & Engineering Student | Full-Stack Developer
 
 I'm a CSE student passionate about building **modern, responsive and user-friendly web applications**.  
-Currently improving my skills in **Java, Python, HTML, CSS, JavaScript and Full-Stack Development**.
+Currently improving my skills in **Java, HTML, CSS, JavaScript and Full-Stack Development**.
 
 ---
 
@@ -21,7 +21,7 @@ Currently improving my skills in **Java, Python, HTML, CSS, JavaScript and Full-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming
-`Java` `Python` `JavaScript`
+`Java`  `JavaScript`
 
 ### 🌐 Web Development
 `HTML5` `CSS3` `JavaScript`
