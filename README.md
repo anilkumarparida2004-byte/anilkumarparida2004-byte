@@ -59,6 +59,8 @@ https://github.com/anilkumarparida2004-byte
 🌐 **Portfolio:**  
 https://anilkumarparida2004-byte.github.io/FUTURE_FS_01/
 
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/anil-kumar-471b47289
 ---
 
 ### ⭐ Thanks for visiting my profile!
